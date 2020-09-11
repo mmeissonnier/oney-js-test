@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Uses: 
+- [React](https://reactjs.org/docs/getting-started.html)
+- [React-router](https://reacttraining.com/react-router/web/guides/quick-start)
+- [Styled-components](https://styled-components.com/docs)
+- [Jest](https://jestjs.io/docs/en/getting-started)
+- [React testing library](https://testing-library.com/docs/intro)
+
+## Installation
+
+### `yarn install`
+
 ## Available Scripts
 
 In the project directory, you can run:
